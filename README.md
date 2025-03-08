@@ -3,10 +3,10 @@
 > Save memory, calculate faster! A smart C++ implementation that only stores non-zero elements in matrices. 
 
 ## 📝 How it saves memory?
-> A 1000x1000 matrix with only 10 non-zero elements:
-> Regular matrix: Stores 1,000,000 elements
-> Sparse matrix: Stores only 10 elements plus their positions
-> Memory savings: Approximately 99.999% less memory used!👀👀
+-  A 1000x1000 matrix with only 10 non-zero elements:
+- Regular matrix: Stores 1,000,000 elements
+- Sparse matrix: Stores only 10 elements plus their positions
+- Memory savings: Approximately 99.999% less memory used!👀👀
 
 ## 🎬 Quick Demo
 
